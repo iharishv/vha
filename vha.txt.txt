@@ -1,2 +1,2 @@
 this is a test file for git commit --  this is a reply from github
-this is a response from local machi
+this is a response from local machine
