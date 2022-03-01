@@ -1,2 +1,7 @@
 this is a test file for git commit --  this is a reply from github
+<<<<<<< HEAD
 this is a response from local machine
+=======
+this is a second line
+this is a response from local machi
+>>>>>>> 3cbcf094801ba181e2ef470df8ae97975474f08d
